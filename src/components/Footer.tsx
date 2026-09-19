@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
       <div className="container">
         <div className="footer-content">
           <div className="logo" style={{ marginBottom: '1rem' }}>
-            <img src="/TRINETRA METALS AND RECYCLING.png" alt="Trinetra Metals Logo" style={{ height: '50px', width: 'auto' }} />
+            <img src="/logo.png" alt="Trinetra Metals Logo" style={{ height: '50px', width: 'auto' }} />
             <span className="logo-text">TRINETRA <span className="text-accent-gradient">METALS</span> AND RECYCLING</span>
           </div>
           <div style={{ display: 'flex', gap: '1rem', fontSize: '1.5rem', color: 'var(--text-secondary)' }}>

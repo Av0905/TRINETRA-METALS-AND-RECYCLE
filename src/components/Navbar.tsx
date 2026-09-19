@@ -17,7 +17,7 @@ const Navbar: React.FC = () => {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="container nav-container">
         <div className="logo">
-          <img src="/TRINETRA METALS AND RECYCLING.png" alt="Trinetra Metals Logo" style={{ height: '50px', width: 'auto' }} />
+          <img src="/logo.png" alt="Trinetra Metals Logo" style={{ height: '50px', width: 'auto' }} />
           <span className="logo-text">TRINETRA <span className="text-accent-gradient">METALS</span> AND RECYCLING</span>
         </div>
         <ul className="nav-links">
